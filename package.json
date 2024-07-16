@@ -1,0 +1,8 @@
+{
+  
+  "dependencies": {
+    "express": "^4.19.2",
+    "openai": "^4.52.7",
+    "sqlite3": "^5.1.7"
+  }
+}
